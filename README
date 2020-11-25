@@ -1,0 +1,8 @@
+README:
+
+Simple Python 3.7.1 password dictionary hash cracker. We (Sean J and I)
+used found the original passwords with: crackstation.net 's human readable dictionary file. It takes a few seconds to run in the latest version, no multithreading involved.
+
+Files used: 
+1.) https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-100000.txt
+2.) CrackStation.net "uniqhuman_phill.txt" (the file mentioned in paragraph 1)
